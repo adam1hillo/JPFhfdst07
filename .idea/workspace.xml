@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff43a5d3-b9c9-40d4-a492-f10b26aa4a04" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst7/ProgrammaVerloopOef.java" afterDir="false" />
+    <list default="true" id="ff43a5d3-b9c9-40d4-a492-f10b26aa4a04" name="Changes" comment="Programma verloop">
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst7/Examens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst7/VoorbeeldProcedureA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/vdab/jpfhfdst7/VoorbeeldProcedureB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Examens.executor": "Run",
     "Application.ProgrammaVerloopOef.executor": "Run",
+    "Application.VoorbeeldProcedureA.executor": "Run",
+    "Application.VoorbeeldProcedureB.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -59,11 +65,30 @@
       <option name="project" value="LOCAL" />
       <updated>1705317650167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Programma verloop">
+      <option name="closed" value="true" />
+      <created>1705320267304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705320267304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Programma verloop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programma verloop" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
